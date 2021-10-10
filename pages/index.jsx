@@ -38,7 +38,7 @@ export default function Home() {
 
       <h1 className={styles.title}>IP  Address Traker</h1>
       <form onSubmit={handleSubmit} className={styles.search}>
-          <input id="search-field" type="text" className={styles.input} placeholder="Search any parameter address or domain"  />
+          <input id="search-field" type="text" className={styles.input} placeholder="Search any IP address or domain"  />
           <input type="submit" className={styles.button} value=">"/>
       </form>
 
