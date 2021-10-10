@@ -34,7 +34,6 @@ export default function Home() {
       <Head>
         <title>ID Address Tracker</title>
         <meta name="description" content="i dont know" />
-        <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet"/> 
       </Head>
 
       <h1 className={styles.title}>IP  Address Traker</h1>
