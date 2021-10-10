@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-leaflet/universal-leaflet": "^1.0.1",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "leaflet-geosearch": "^3.5.2",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-leaflet": "^3.2.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
