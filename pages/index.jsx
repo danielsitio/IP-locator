@@ -65,7 +65,7 @@ export default function Home() {
       </div>
         :
         <div className={styles.error}>
-          Can't find the <IP></IP>
+          Can't find the IP.
         </div>
       }
     </div>
